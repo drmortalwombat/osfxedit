@@ -14,6 +14,7 @@ Keys / functions:
 
 Columns
 
+- 0-E: effect number. Hit `+` here to clone/insert a line (or add a new one when on `#`). Hit `-` to delet this line.
 - TSRNG: Enable one of more Waveforms - *T*riangle, *S*awtooth, *R*ectangle, *N*oise. *G*ate determined whether to trigger the gate to "on" at start of this effect. 
 - FREQ: Frequency
 - PWM: Pulse width - only relevant for Rectangle waveform
